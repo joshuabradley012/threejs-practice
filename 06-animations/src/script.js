@@ -42,7 +42,6 @@ window.addEventListener('mouseover', (event) => {
   cursor.y = event.clientY / sizes.height - 0.5;
 });
 
-
 // Animation
 const clock = new THREE.Clock();
 
